@@ -11,6 +11,6 @@
     <title></title>
   </head>
   <body>
-
+     Oh my god, you have run an app by maven!
   </body>
 </html>
